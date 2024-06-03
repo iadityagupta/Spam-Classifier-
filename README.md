@@ -6,3 +6,15 @@ Features
 Naive Bayes Classifier: Implements a Naive Bayes algorithm to classify messages as spam or ham.
 Tokenization: Uses NLP techniques to preprocess and tokenize the text data.
 Training and Prediction: Allows for training the model on a dataset and using the trained model to predict the class of new messages.
+
+The dataset is available here:
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
+Dependencies
+pandas
+scikit-learn
+nltk
+You can install these dependencies using:
+pip install -r requirements.txt
+
+
