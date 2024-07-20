@@ -20,6 +20,6 @@ scikit-learn
 nltk
 You can install these dependencies using:
 
-`pip install -r requirements.txt`
+
 
 
